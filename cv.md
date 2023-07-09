@@ -27,7 +27,7 @@ Last year I found the Construct 2 editor and tried to create my game in it. It i
 
 Skills
 
-Git, GitHub
+Git, GitHub, HTML, CSS
 
 
 
@@ -39,13 +39,9 @@ Create a function that takes an integer as an argument and returns "Even" for ev
      if (number % 2 == 1 || number % 2== -1) { 
      return "odd" 
       } 
-
      else { 
-
      return "even" 
-
      } 
-
      } 
 
 
