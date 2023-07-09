@@ -117,3 +117,30 @@
   display: flex;
   justify-content: space-between;
 }
+
+.footer-github {
+  font-size: 125%;
+  color: blue;
+  text-decoration: underline;
+  margin-top: 5%;
+  margin-left: 2%;
+}
+
+.footer-time {
+  color: black;
+  font-size: 150%;
+  text-decoration: bold;
+  margin-top: 5%;
+}
+
+.footer-all {
+  background-color: aliceblue;
+  margin-top: 8%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-rs {
+  margin-right: 2%;
+  margin-top: -1%;
+}
